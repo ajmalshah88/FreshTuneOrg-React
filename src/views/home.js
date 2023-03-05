@@ -97,18 +97,13 @@ const Home = (props) => {
         />
         <img
           alt="image"
-          src="/playground_assets/bvh1-200h.png"
+          src="/playground_assets/19_marcomm_goldawardgirlscout_logo_cmyk_awhitebkgd-200h.png"
           className="home-image3"
         />
         <img
           alt="image"
           src="/playground_assets/datacruise-logo-v1.svg"
           className="home-image4"
-        />
-        <img
-          alt="image"
-          src="/playground_assets/mainnavlogo-200h.png"
-          className="home-image5"
         />
         <div className="home-divider1"></div>
       </div>
@@ -160,7 +155,7 @@ const Home = (props) => {
             <img
               alt="image"
               src="/playground_assets/quote-mark.svg"
-              className="home-image6"
+              className="home-image5"
             />
             <h1 className="home-text13 Headline2">
               Real Stories from Real Humans
@@ -182,7 +177,7 @@ const Home = (props) => {
                 text="I am impressed by the creativity and innovation that your organization brings to the table. Your use of technology to incentivize positive behavior is a game-changer for our community"
                 text1="Jane Cooper"
                 text2="Principal"
-                image_src="/playground_assets/bvh1-200h.png"
+                image_src="/playground_assets/19_marcomm_goldawardgirlscout_logo_cmyk_awhitebkgd-200h.png"
               ></TestimonialsCard>
             </div>
             <div className="home-container08">
@@ -241,9 +236,9 @@ const Home = (props) => {
         <div className="home-container13">
           <img
             alt="image"
-            src="/playground_assets/iphonex-1200w.png"
-            image_src="/playground_assets/iphonex-1200w.png"
-            className="home-image7"
+            src="/playground_assets/mr%20mr%20work-400w.png"
+            image_src="dab1286f-0104-48fa-bd7d-135e132129dd"
+            className="home-image6"
           />
         </div>
         <div className="home-container14">
@@ -276,7 +271,7 @@ const Home = (props) => {
           alt="image"
           src="https://images.unsplash.com/photo-1535157412991-2ef801c1748b?ixlib=rb-1.2.1&amp;q=85&amp;fm=jpg&amp;crop=entropy&amp;cs=srgb&amp;h=1000"
           image_src="/playground_assets/iphonex-1200w.png"
-          className="home-image8"
+          className="home-image7"
         />
       </div>
       <CTA></CTA>
