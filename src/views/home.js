@@ -225,7 +225,7 @@ const Home = (props) => {
           <div className="home-container12">
             <StatsCard number="500+" description="Grown ups"></StatsCard>
             <StatsCard
-              number="3"
+              number="4"
               image_src="/playground_assets/07.svg"
               description="Schools"
             ></StatsCard>
